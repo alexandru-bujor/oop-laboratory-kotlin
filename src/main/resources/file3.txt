@@ -1,0 +1,2 @@
+This is the content for file 3.
+It provides data for task 3.

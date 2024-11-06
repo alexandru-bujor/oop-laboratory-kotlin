@@ -1,62 +1,60 @@
-// File: FileReader.kt
+package lab1.task2
+
 import java.io.File
 
-object FileReader {
-    fun readFileIntoString(path: String): String {
-        return File(path).readText()
-    }
-}
+class FileReader {
+    fun readFileIntoString(path: String): String = File(path).readText()
 
-// File: TextData.kt
-class TextData(val fileName: String, private val text: String) {
-    val numberOfVowels: Int
-    val numberOfConsonants: Int
-    val numberOfLetters: Int
-    val numberOfSentences: Int
-    val longestWord: String
-
-    init {
-        numberOfVowels = countVowels()
-        numberOfConsonants = countConsonants()
-        numberOfLetters = text.count { it.isLetter() }
-        numberOfSentences = text.split(". ", "? ", "! ").size
-        longestWord = findLongestWord()
-    }
-
-    private fun countVowels(): Int {
-        return text.count { it.lowercaseChar() in "aeiou" }
-    }
-
-    private fun countConsonants(): Int {
-        return text.count { it.isLetter() && it.lowercaseChar() !in "aeiou" }
-    }
-
-    private fun findLongestWord(): String {
-        return text.split("\\s+".toRegex()).maxByOrNull { it.length } ?: ""
-    }
-
-    fun printInfo() {
-        println("File Name: $fileName")
-        println("Number of Vowels: $numberOfVowels")
-        println("Number of Consonants: $numberOfConsonants")
-        println("Number of Letters: $numberOfLetters")
-        println("Number of Sentences: $numberOfSentences")
-        println("Longest Word: $longestWord")
-    }
-}
-
-// Main for Task 2
-fun main(args: Array<String>) {
-    if (args.isNotEmpty()) {
-        val filePath = args[0]
-        try {
-            val fileContent = FileReader.readFileIntoString(filePath)
-            val textData = TextData(filePath, fileContent)
-            textData.printInfo()
-        } catch (e: Exception) {
-            println("Error reading file: ${e.message}")
+    companion object {
+        fun main() {
+            val filePath = "C:\\dev\\OOP-University-Solutions\\lab1-kotlin\\src\\main\\resources\\file1.txt"
+            if (filePath != null) {
+                val fileReader = FileReader()
+                val text = fileReader.readFileIntoString(filePath)
+                val textData = TextData(filePath, text)
+                println(textData)
+            } else {
+                println("Please provide a file path as an argument.")
+            }
         }
+    }
+}
+
+class TextData(val fileName: String, val text: String) {
+    val numberOfVowels = text.count { it.lowercaseChar() in "aeiou" }
+    val numberOfConsonants = text.count { it.lowercaseChar() in "bcdfghjklmnpqrstvwxyz" }
+    val numberOfLetters = text.count { it.isLetter() }
+    val numberOfSentences = text.count { it in ".?!" }
+    val longestWord = text.split(Regex("\\W+")).maxByOrNull { it.length } ?: ""
+
+    override fun toString(): String {
+        return """
+            File: $fileName
+            Text: $text
+            Vowels: $numberOfVowels
+            Consonants: $numberOfConsonants
+            Letters: $numberOfLetters
+            Sentences: $numberOfSentences
+            Longest Word: $longestWord
+        """.trimIndent()
+    }
+}
+
+fun main(args: Array<String>) {
+    val filePath = "C:\\dev\\OOP-University-Solutions\\lab1-kotlin\\src\\main\\resources\\file1.txt"
+    if (filePath != null) {
+        val fileReader = FileReader()
+        val text = fileReader.readFileIntoString(filePath)
+        val textData = TextData(filePath, text)
+        println(textData)
     } else {
         println("Please provide a file path as an argument.")
     }
+}
+
+fun runTask(filePath: String = "C:\\dev\\OOP-University-Solutions\\lab1-kotlin\\src\\main\\resources\\file1.txt") {
+    val fileReader = FileReader()
+    val text = fileReader.readFileIntoString(filePath)
+    val textData = TextData(filePath, text)
+    println(textData)
 }

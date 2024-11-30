@@ -1,0 +1,233 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"718f691f-78db-45ed-9714-be441b63ba1f\" name=\"Changes\" comment=\"OOP Advanced tasks\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/Barista.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/CoffeeShop/Americano.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/CoffeeShop/Cappuccino.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/CoffeeShop/Coffee.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/CoffeeShop/Enums.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/CoffeeShop/PumpkinSpiceLatte.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/kotlin/CoffeeShop/SyrupCappuccino.kt\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/coffee_orders.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/gradle.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/gradle.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/build.gradle.kts\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build.gradle.kts\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/kotlin/Main.kt\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/kotlin/Main.kt\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ExternalProjectsData\">\r\n    <projectState path=\"$PROJECT_DIR$\">\r\n      <ProjectState />\r\n    </projectState>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Kotlin File\" />\r\n        <option value=\"Kotlin Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Lab-2---Coffee-inheritance\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"SWAP_SIDES_IN_COMPARE_BRANCHES\" value=\"true\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;alexandru-bujor&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/alexandru-bujor/oop-laboratory-kotlin&quot;,\r\n    &quot;accountId&quot;: &quot;d515fd58-e708-404c-8f19-d1e65fc338ef&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2nq7GZBEvjxLlQ0BhfrOcB3QmzI\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Gradle.Build oop-laboratory-kotlin.executor&quot;: &quot;Run&quot;,\r\n    &quot;Kotlin.FilesKt.executor&quot;: &quot;Run&quot;,\r\n    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;oop-advanced-tasks-kotlin&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/untitled/src/main/kotlin/Main.kt&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\sandu\\IdeaProjects\\oop-laboratory-kotlin\\src\\main\\resources\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"718f691f-78db-45ed-9714-be441b63ba1f\" name=\"Changes\" comment=\"\" />\r\n      <created>1729688658337</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1729688658337</updated>\r\n      <workItem from=\"1729688659570\" duration=\"3000\" />\r\n      <workItem from=\"1731930886588\" duration=\"2315000\" />\r\n      <workItem from=\"1732095752380\" duration=\"1913000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"OOP Advanced tasks\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1731926658232</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1731926658232</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"User\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"*\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"oop-advanced-tasks-kotlin\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"user\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"*\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"This is the last version for this lab work\" />\r\n    <MESSAGE value=\"first commit\" />\r\n    <MESSAGE value=\"OOP Advanced tasks\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"OOP Advanced tasks\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1fbdc0b22c1c95068f0ea7f51c82f391e2d77e9b)
++++ b/.idea/workspace.xml	(date 1732789671246)
+@@ -4,19 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="718f691f-78db-45ed-9714-be441b63ba1f" name="Changes" comment="OOP Advanced tasks">
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Barista.kt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CoffeeShop/Americano.kt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CoffeeShop/Cappuccino.kt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CoffeeShop/Coffee.kt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CoffeeShop/Enums.kt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CoffeeShop/PumpkinSpiceLatte.kt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CoffeeShop/SyrupCappuccino.kt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/coffee_orders.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
++    <list default="true" id="718f691f-78db-45ed-9714-be441b63ba1f" name="Changes" comment="The rest of the files">
++      <change afterPath="$PROJECT_DIR$/src/main/resources/barista.json" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Barista.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Barista.kt" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -89,6 +80,20 @@
+       <recent name="C:\Users\sandu\IdeaProjects\oop-laboratory-kotlin\src\main\resources" />
+     </key>
+   </component>
++  <component name="RunManager">
++    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="MainKt" />
++      <module name="untitled.main" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Kotlin.MainKt" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -107,7 +112,8 @@
+       <updated>1729688658337</updated>
+       <workItem from="1729688659570" duration="3000" />
+       <workItem from="1731930886588" duration="2315000" />
+-      <workItem from="1732095752380" duration="1913000" />
++      <workItem from="1732095752380" duration="4595000" />
++      <workItem from="1732781442914" duration="2081000" />
+     </task>
+     <task id="LOCAL-00001" summary="OOP Advanced tasks">
+       <option name="closed" value="true" />
+@@ -117,7 +123,47 @@
+       <option name="project" value="LOCAL" />
+       <updated>1731926658232</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Americano class">
++      <option name="closed" value="true" />
++      <created>1732100038362</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1732100038362</updated>
++    </task>
++    <task id="LOCAL-00003" summary="Barista file">
++      <option name="closed" value="true" />
++      <created>1732100051856</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1732100051856</updated>
++    </task>
++    <task id="LOCAL-00004" summary="Capucino open class">
++      <option name="closed" value="true" />
++      <created>1732100068059</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1732100068059</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Coffe class">
++      <option name="closed" value="true" />
++      <created>1732100082767</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1732100082767</updated>
++    </task>
++    <task id="LOCAL-00006" summary="The rest of the files">
++      <option name="closed" value="true" />
++      <created>1732100099506</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1732100099506</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -177,6 +223,11 @@
+     <MESSAGE value="This is the last version for this lab work" />
+     <MESSAGE value="first commit" />
+     <MESSAGE value="OOP Advanced tasks" />
+-    <option name="LAST_COMMIT_MESSAGE" value="OOP Advanced tasks" />
++    <MESSAGE value="Americano class" />
++    <MESSAGE value="Barista file" />
++    <MESSAGE value="Capucino open class" />
++    <MESSAGE value="Coffe class" />
++    <MESSAGE value="The rest of the files" />
++    <option name="LAST_COMMIT_MESSAGE" value="The rest of the files" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/main/resources/barista.json
+===================================================================
+diff --git a/src/main/resources/barista.json b/src/main/resources/barista.json
+new file mode 100644
+--- /dev/null	(date 1732105647891)
++++ b/src/main/resources/barista.json	(date 1732105647891)
+@@ -0,0 +1,5 @@
++{
++  "username": "Jane Doe",
++  "id": 1,
++  "email": "jane.doe@example.com"
++}
+Index: src/main/kotlin/Main.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import CoffeeShop.*\r\n\r\nfun main() {\r\n    val barista = Barista()\r\n\r\n    val cappuccino = barista.makeCappuccino()\r\n    val pumpkinSpiceLatte = barista.makePumpkinSpiceLatte()\r\n    val americano = barista.makeAmericano()\r\n    val syrupCappuccino = barista.makeSyrupCappuccino()\r\n\r\n    barista.orderCoffee(cappuccino)\r\n    barista.orderCoffee(pumpkinSpiceLatte)\r\n    barista.orderCoffee(americano)\r\n    barista.orderCoffee(syrupCappuccino)\r\n\r\n    barista.brewAll()\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/Main.kt b/src/main/kotlin/Main.kt
+--- a/src/main/kotlin/Main.kt	(revision 1fbdc0b22c1c95068f0ea7f51c82f391e2d77e9b)
++++ b/src/main/kotlin/Main.kt	(date 1732106604400)
+@@ -1,6 +1,43 @@
+ import CoffeeShop.*
++import java.util.Scanner
++import kotlinx.serialization.*
++import kotlinx.serialization.json.*
++import java.io.File
++
++
++val scanner = Scanner(System.`in`)
++@Serializable
++data class Baristas(val username: String, val id: Int, val email: String)
++val jsonString = File("barista.json").readText()
++val user = Json.decodeFromString<Barista>(jsonString.toString())
++
++
++fun menu(){
++    println("\n=== Main Menu ===")
++    println("1. Log in the system")
++    println("2. Run the task")
++    println("3. Exit")
++    print("Enter your choice: ")
++    val choice = scanner.nextLine().toInt()
+ 
+-fun main() {
++
++    when (choice) {
++        1 -> {
++            systemLogIn()
++        }
++        2 -> {
++            taskLabWork()
++        }
++        3 -> {
++            println("Exiting the program. Goodbye!")
++        }
++        else -> {
++            println("Invalid choice. Please try again.")
++        }
++    }
++}
++
++fun taskLabWork() {
+     val barista = Barista()
+ 
+     val cappuccino = barista.makeCappuccino()
+@@ -13,5 +50,25 @@
+     barista.orderCoffee(americano)
+     barista.orderCoffee(syrupCappuccino)
+ 
++
+     barista.brewAll()
+ }
++
++fun systemLogIn() {
++    print("Username:")
++    val choice2 = scanner.nextLine()
++
++    if (choice2 == "Enter your choice") {}
++}
++
++fun main() {
++
++
++menu()
++
++
++
++
++
++
++}
+Index: src/main/kotlin/Barista.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import CoffeeShop.*\r\n\r\nclass Barista {\r\n    private val coffeeList = mutableListOf<Coffee>()\r\n\r\n    fun orderCoffee(coffee: Coffee) {\r\n        coffeeList.add(coffee)\r\n        println(\"Order placed for: ${coffee.name}\")\r\n    }\r\n\r\n    fun brewAll() {\r\n        println(\"\\nBrewing all coffees...\")\r\n        coffeeList.forEach {\r\n            println(\"\\nBrewing ${it.name}:\")\r\n            it.printCoffeeDetails()\r\n        }\r\n    }\r\n\r\n    fun makeCappuccino(): Cappuccino {\r\n        println(\"Making a Cappuccino...\")\r\n        return Cappuccino(Intensity.NORMAL, 200)\r\n    }\r\n\r\n    fun makePumpkinSpiceLatte(): PumpkinSpiceLatte {\r\n        println(\"Making a Pumpkin Spice Latte...\")\r\n        return PumpkinSpiceLatte(Intensity.STRONG, 150, 50)\r\n    }\r\n\r\n    fun makeAmericano(): Americano {\r\n        println(\"Making an Americano...\")\r\n        return Americano(Intensity.LIGHT, 300)\r\n    }\r\n\r\n    fun makeSyrupCappuccino(): SyrupCappuccino {\r\n        println(\"Making a Syrup Cappuccino...\")\r\n        return SyrupCappuccino(Intensity.NORMAL, 200, SyrupType.CARAMEL)\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/main/kotlin/Barista.kt b/src/main/kotlin/Barista.kt
+--- a/src/main/kotlin/Barista.kt	(revision 1fbdc0b22c1c95068f0ea7f51c82f391e2d77e9b)
++++ b/src/main/kotlin/Barista.kt	(date 1732105319820)
+@@ -36,3 +36,4 @@
+         return SyrupCappuccino(Intensity.NORMAL, 200, SyrupType.CARAMEL)
+     }
+ }
++

@@ -1,27 +1,30 @@
 plugins {
-    kotlin("jvm") version "2.0.20"
-    kotlin("plugin.serialization") version "2.0.20"
+    kotlin("jvm") version "2.0.20" // Ensure compatibility with JDK
+    kotlin("plugin.serialization") version "2.0.20" // Serialization support
 }
 
 group = "org.example"
 version = "1.0-SNAPSHOT"
 
 repositories {
-    mavenCentral()
+    mavenCentral() // Use Maven Central for dependency resolution
 }
 
 dependencies {
     // Kotlin Standard Library
     implementation(kotlin("stdlib"))
 
-    // Serialization library for JSON handling
+    // Gson for JSON handling
+    implementation("com.google.code.gson:gson:2.8.9")
+
+    // Kotlin Serialization for JSON handling
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0")
 
     // JUnit 5 for unit testing
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.7.0")
-    testImplementation("org.junit.jupiter:junit-jupiter-engine:5.7.0")
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.0")
+    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.10.0")
 
-    // Kotlin Test for more Kotlin-friendly testing syntax
+    // Kotlin Test for concise and Kotlin-friendly testing syntax
     testImplementation(kotlin("test"))
 }
 
@@ -30,5 +33,5 @@ tasks.test {
 }
 
 kotlin {
-    jvmToolchain(21) // Specifies JDK version for the JVM
+    jvmToolchain(21) // Ensure compatibility with JDK 21
 }

@@ -1,0 +1,43 @@
+Index: Queue.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Queue.kt b/Queue.kt
+new file mode 100644
+--- /dev/null	(date 1733346240050)
++++ b/Queue.kt	(date 1733346240050)
+@@ -0,0 +1,5 @@
++interface Queue<T> {
++    fun enqueue(item: T)
++    fun dequeue(): T?
++    fun size(): Int
++}
+\ No newline at end of file
+Index: Setup.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Setup.kt b/Setup.kt
+new file mode 100644
+--- /dev/null	(date 1733346240041)
++++ b/Setup.kt	(date 1733346240041)
+@@ -0,0 +1,17 @@
++//CAR_TYPES = ["ELECTRIC", "GAS"]
++//PASSENGER_TYPES = ["PEOPLE", "ROBOTS"]
++//IS_DINING = [True, False]
++//CONSUMPTION_RANGE = (10, 50)
++//manual queue enqueue dequeue
++//class car
++//test import org.jupiter etc
++//
++
++enum class CAR_TYPE{
++    ELECTRIC, GAS
++}
++
++enum class PASSENGER_TYPE{
++    PEOPLE, ROBOTS
++}
++

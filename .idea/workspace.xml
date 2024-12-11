@@ -4,15 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="718f691f-78db-45ed-9714-be441b63ba1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generator.py" afterDir="false" />
+    <list default="true" id="718f691f-78db-45ed-9714-be441b63ba1f" name="Changes" comment="PeopleDinner.kt in task1 package">
+      <change afterPath="$PROJECT_DIR$/Setup.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task1/Car.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2/Dineable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2/ElectricStation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2/GasStation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2/Refuelable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2/RobotDinner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task3/CarStation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task4/Semaphore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/service/ServiceTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car29.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue/Car9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Queue.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SimpleQueue.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,26 +63,42 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="oop-advanced-tasks-kotlin" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "alexandru-bujor"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alexandru-bujor&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alexandru-bujor/oop-laboratory-kotlin",
-    "accountId": "d515fd58-e708-404c-8f19-d1e65fc338ef"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexandru-bujor/oop-laboratory-kotlin&quot;,
+    &quot;accountId&quot;: &quot;d515fd58-e708-404c-8f19-d1e65fc338ef&quot;
   }
-}]]></component>
+}</component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -55,11 +110,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build oop-laboratory-kotlin.executor": "Run",
+    "Gradle.ServiceTest.executor": "Run",
+    "Gradle.ServiceTest.testService.executor": "Run",
+    "Kotlin.Main.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.TestKt.executor": "Debug",
     "Python.generator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "oop-car-station",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sandu/IdeaProjects/oop-laboratory-kotlin/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,35 +129,70 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/dev/untitled/src/main/kotlin/Main.kt",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sandu\IdeaProjects\oop-laboratory-kotlin\src" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="" />
+      <recent name="oop-ca" />
+      <recent name="oop-car" />
+      <recent name="oop-" />
+      <recent name="oop" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+    <configuration name="ServiceTest.testService" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;service.ServiceTest.testService&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
+      <module name="untitled.src.test_version2_0.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ServiceTest.testService" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -115,10 +212,96 @@
       <updated>1729688658337</updated>
       <workItem from="1729688659570" duration="3000" />
       <workItem from="1733009178005" duration="99000" />
+      <workItem from="1733692691643" duration="15316000" />
     </task>
+    <task id="LOCAL-00001" summary="Queue Interface">
+      <option name="closed" value="true" />
+      <created>1733616958314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733616958314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SimpleQueue Class implementation">
+      <option name="closed" value="true" />
+      <created>1733617120837</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733617120837</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BuildGradle.kts edit in order to implement tests">
+      <option name="closed" value="true" />
+      <created>1733617631972</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733617631972</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creating the task 1 package, and there i implemented the Interface Queue.kt">
+      <option name="closed" value="true" />
+      <created>1733905544496</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733905544496</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CircularQueue.kt in task1 package">
+      <option name="closed" value="true" />
+      <created>1733905565894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733905565894</updated>
+    </task>
+    <task id="LOCAL-00006" summary="PriorityQueue.kt in task1 package">
+      <option name="closed" value="true" />
+      <created>1733905599907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733905599907</updated>
+    </task>
+    <task id="LOCAL-00007" summary="MyQueue.kt in task1 package">
+      <option name="closed" value="true" />
+      <created>1733905634252</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733905634252</updated>
+    </task>
+    <task id="LOCAL-00008" summary="SimpleQueue.kt in task1 package">
+      <option name="closed" value="true" />
+      <created>1733905655993</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733905655993</updated>
+    </task>
+    <task id="LOCAL-00009" summary="PeopleDinner.kt in task1 package">
+      <option name="closed" value="true" />
+      <created>1733905698998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733905698998</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Queue Interface" />
+    <MESSAGE value="SimpleQueue Class implementation" />
+    <MESSAGE value="BuildGradle.kts edit in order to implement tests" />
+    <MESSAGE value="Creating the task 1 package, and there i implemented the Interface Queue.kt" />
+    <MESSAGE value="CircularQueue.kt in task1 package" />
+    <MESSAGE value="PriorityQueue.kt in task1 package" />
+    <MESSAGE value="MyQueue.kt in task1 package" />
+    <MESSAGE value="SimpleQueue.kt in task1 package" />
+    <MESSAGE value="PeopleDinner.kt in task1 package" />
+    <option name="LAST_COMMIT_MESSAGE" value="PeopleDinner.kt in task1 package" />
   </component>
 </project>
